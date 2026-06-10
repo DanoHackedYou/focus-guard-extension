@@ -1,0 +1,24 @@
+{
+  "name": "focus-guard-extension",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A Chrome extension to block distracting websites, track focus time and generate productivity insights.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build && node scripts/copy-manifest.js",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "typescript": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/chrome": "latest"
+  },
+  "devDependencies": {}
+}
