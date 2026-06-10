@@ -2,6 +2,10 @@
 
 A professional Chrome extension that helps users stay focused by blocking distracting websites during focus sessions and tracking time spent across domains.
 
+#Screenshot
+
+<img width="777" height="1203" alt="image" src="https://github.com/user-attachments/assets/01fe3aeb-0c27-4259-b5b1-51b3fa53d122" />
+
 ## Features
 
 - Focus mode timer.
